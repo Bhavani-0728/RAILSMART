@@ -1,0 +1,59 @@
+# ── Python ────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual Environment ───────────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# ── Environment Variables (SENSITIVE - never push this) ───────────────
+.env
+.env.local
+.env.production
+*.env
+
+# ── Streamlit ─────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Jupyter Notebooks ─────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Data Files (if generated locally) ────────────────────────────────
+*.csv
+*.xlsx
+*.json
+railway_data.csv
+
+# ── OS Files ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── VS Code ───────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── PyCharm / JetBrains ───────────────────────────────────────────────
+.idea/
+
+# ── Logs ──────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── ML Model Artifacts (if saved locally) ─────────────────────────────
+*.pkl
+*.joblib
+*.h5
+models/
