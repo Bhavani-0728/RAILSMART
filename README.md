@@ -197,7 +197,7 @@ All data is **100% synthetic** — generated deterministically using NumPy's ran
 If you encounter any issues or have questions:
 
 - 📧 Email: bhavanibhavya77@gmail.com
-- 📱 Phone: +91 90631997036
+- 📱 Phone: +91 9063197036
 
 ---
 
